@@ -4,7 +4,7 @@
 <h2>Tecnoligias:</h2>
 <h3> Frontend: </h3>
 <li> TypeScript </li>
-<li> Sass </li>
+<li> styled-components </li>
    
 <h3> Backend: </h3>
 <li> AWS </li>
